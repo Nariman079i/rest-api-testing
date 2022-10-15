@@ -1,1 +1,1 @@
-web : ApiList.wsgi :application
+web: ApiList.wsgi:application
